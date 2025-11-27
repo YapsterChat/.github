@@ -1,5 +1,7 @@
 <img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/970c3b36-4ed0-4bcc-8e7f-68a95187b0dd" />
 
+*** 
+
 **Yapster** is an up-and-coming messaging platform that reinvents the wheel, but puts shiny bells and whistles to justify the price! Just kidding, the app is **free!** (free is very cheap I think)
 
 ### Supercharge Your Friendships
