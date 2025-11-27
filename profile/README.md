@@ -1,4 +1,4 @@
-<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/970c3b36-4ed0-4bcc-8e7f-68a95187b0dd" />
+<img width="2000" height="800" alt="image" src="https://raw.githubusercontent.com/YapsterChat/.github/75008836edddad0e8de279209c7e45f507c1d5a3/profile/assets/this%20is%20a%20banner.png" />
 
 *** 
 
